@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>David Credi</title>
+    <description>Halajot Cortas</description>
+    <link>https://rabmeireliyahu.github.io/credi</link>
+    <language>es</language>
+    <itunes:author>David Credi</itunes:author>
+    <itunes:owner><itunes:name>David Credi</itunes:name><itunes:email>rabmeireliyahu@gmail.com</itunes:email></itunes:owner>
+    <itunes:image href="https://rabmeireliyahu.github.io/credi/portada.jpg"/>
+    <itunes:category text="Religion &amp; Spirituality"/>
+    <itunes:explicit>false</itunes:explicit>
+  </channel>
+</rss>
