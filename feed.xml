@@ -828,5 +828,14 @@
       <itunes:duration>00:00:29</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>¿Se permite que un hombre use perfume David Credi</title>
+      <description>¿Se permite que un hombre use perfume David Credi</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/rab-credi/%C2%BFSe%20permite%20que%20un%20hombre%20use%20perfume%20David%20Credi.mp3" length="351789" type="audio/mpeg"/>
+      <guid isPermaLink="false">¿Se permite que un hombre use perfume David Credi.mp3</guid>
+      <pubDate>Tue, 20 Oct 2026 08:26:58 -0000</pubDate>
+      <itunes:duration>00:00:21</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
 </channel>
 </rss>
