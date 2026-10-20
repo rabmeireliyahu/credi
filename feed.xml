@@ -3,11 +3,12 @@
   <channel>
     <title>David Credi</title>
     <description>Halajot Cortas</description>
+    <itunes:summary>Halajot Cortas</itunes:summary>
     <link>https://rabmeireliyahu.github.io/credi</link>
     <language>es</language>
     <itunes:author>David Credi</itunes:author>
     <itunes:owner><itunes:name>David Credi</itunes:name><itunes:email>rabmeireliyahu@gmail.com</itunes:email></itunes:owner>
-    <itunes:image href="https://rabmeireliyahu.github.io/credi/portada.jpg"/>
+    <itunes:image href="https://rabmeireliyahu.github.io/credi/portada_202610201111.jpg"/>
     <itunes:category text="Religion &amp; Spirituality"/>
     <itunes:explicit>false</itunes:explicit>
       <item>
