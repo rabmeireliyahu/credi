@@ -856,5 +856,14 @@
       <itunes:duration>00:00:33</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>¿Se permite que un hombre use anillo David Credi</title>
+      <description>¿Se permite que un hombre use anillo David Credi</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/rab-credi/%C2%BFSe%20permite%20que%20un%20hombre%20use%20anillo%20David%20Credi.mp3" length="578733" type="audio/mpeg"/>
+      <guid isPermaLink="false">¿Se permite que un hombre use anillo David Credi.mp3</guid>
+      <pubDate>Fri, 23 Oct 2026 07:15:29 -0000</pubDate>
+      <itunes:duration>00:00:36</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
 </channel>
 </rss>
