@@ -901,5 +901,14 @@
       <itunes:duration>00:00:33</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>¿Se permite cortarle a un niño la Pea David Credi</title>
+      <description>¿Se permite cortarle a un niño la Pea David Credi</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/rab-credi/%C2%BFSe%20permite%20cortarle%20a%20un%20ni%C3%B1o%20la%20Pea%20David%20Credi.mp3" length="566445" type="audio/mpeg"/>
+      <guid isPermaLink="false">¿Se permite cortarle a un niño la Pea David Credi.mp3</guid>
+      <pubDate>Fri, 30 Oct 2026 08:00:50 -0000</pubDate>
+      <itunes:duration>00:00:35</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
 </channel>
 </rss>
