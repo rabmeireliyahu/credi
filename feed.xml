@@ -937,5 +937,14 @@
       <itunes:duration>00:00:31</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>¿Se permite subir al Sefer Torá alguien que se rasura con rastrillo David Credi</title>
+      <description>¿Se permite subir al Sefer Torá alguien que se rasura con rastrillo David Credi</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/rab-credi/%C2%BFSe%20permite%20subir%20al%20Sefer%20Tor%C3%A1%20alguien%20que%20se%20rasura%20con%20rastrillo%20David%20Credi.mp3" length="649389" type="audio/mpeg"/>
+      <guid isPermaLink="false">¿Se permite subir al Sefer Torá alguien que se rasura con rastrillo David Credi.mp3</guid>
+      <pubDate>Thu, 05 Nov 2026 05:24:41 -0000</pubDate>
+      <itunes:duration>00:00:40</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
 </channel>
 </rss>
