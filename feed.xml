@@ -964,5 +964,14 @@
       <itunes:duration>00:00:27</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>¿Es bueno ir con Mekubalim David Credi</title>
+      <description>¿Es bueno ir con Mekubalim David Credi</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/rab-credi/%C2%BFEs%20bueno%20ir%20con%20Mekubalim%20David%20Credi.mp3" length="648237" type="audio/mpeg"/>
+      <guid isPermaLink="false">¿Es bueno ir con Mekubalim David Credi.mp3</guid>
+      <pubDate>Thu, 12 Nov 2026 07:57:20 -0000</pubDate>
+      <itunes:duration>00:00:40</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
 </channel>
 </rss>
