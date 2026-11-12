@@ -955,5 +955,14 @@
       <itunes:duration>00:00:47</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>¿Se permite ir con la gente que lee la mano o las cartas David Credi</title>
+      <description>¿Se permite ir con la gente que lee la mano o las cartas David Credi</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/rab-credi/%C2%BFSe%20permite%20ir%20con%20la%20gente%20que%20lee%20la%20mano%20o%20las%20cartas%20David%20Credi.mp3" length="446253" type="audio/mpeg"/>
+      <guid isPermaLink="false">¿Se permite ir con la gente que lee la mano o las cartas David Credi.mp3</guid>
+      <pubDate>Wed, 11 Nov 2026 18:35:22 -0000</pubDate>
+      <itunes:duration>00:00:27</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
 </channel>
 </rss>
