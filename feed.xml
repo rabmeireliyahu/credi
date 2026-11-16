@@ -982,5 +982,14 @@
       <itunes:duration>00:00:51</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>¿Es mejor no prestar la cartera David Credi</title>
+      <description>¿Es mejor no prestar la cartera David Credi</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/rab-credi/%C2%BFEs%20mejor%20no%20prestar%20la%20cartera%20David%20Credi.mp3" length="734253" type="audio/mpeg"/>
+      <guid isPermaLink="false">¿Es mejor no prestar la cartera David Credi.mp3</guid>
+      <pubDate>Mon, 16 Nov 2026 07:37:35 -0000</pubDate>
+      <itunes:duration>00:00:45</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
 </channel>
 </rss>
