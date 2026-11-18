@@ -1000,5 +1000,14 @@
       <itunes:duration>00:00:55</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>¿Se permite abrir un libro al azar para hacer lo que salga David Credi</title>
+      <description>¿Se permite abrir un libro al azar para hacer lo que salga David Credi</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/rab-credi/%C2%BFSe%20permite%20abrir%20un%20libro%20al%20azar%20para%20hacer%20lo%20que%20salga%20David%20Credi.mp3" length="477357" type="audio/mpeg"/>
+      <guid isPermaLink="false">¿Se permite abrir un libro al azar para hacer lo que salga David Credi.mp3</guid>
+      <pubDate>Wed, 18 Nov 2026 08:43:53 -0000</pubDate>
+      <itunes:duration>00:00:29</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
 </channel>
 </rss>
