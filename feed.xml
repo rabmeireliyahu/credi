@@ -1027,5 +1027,14 @@
       <itunes:duration>00:00:36</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>¿Hay alguna Segula de ir a la tebila del Arizal David Credi</title>
+      <description>¿Hay alguna Segula de ir a la tebila del Arizal David Credi</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/rab-credi/%C2%BFHay%20alguna%20Segula%20de%20ir%20a%20la%20tebila%20del%20Arizal%20David%20Credi.mp3" length="921260" type="audio/mpeg"/>
+      <guid isPermaLink="false">¿Hay alguna Segula de ir a la tebila del Arizal David Credi.mp3</guid>
+      <pubDate>Mon, 23 Nov 2026 06:23:02 -0000</pubDate>
+      <itunes:duration>00:00:57</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
 </channel>
 </rss>
